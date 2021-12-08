@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"file",
+				"file_store"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"str",
+				"StrictMath"
+			],
+			[
+				"fo",
+				"for\tfor"
+			],
+			[
+				"String",
+				"StringBuffer"
+			],
+			[
+				"Local",
+				"LocalTime"
+			],
+			[
+				"my",
+				"mynum"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"wh",
+				"wh\twhile"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"d",
+				"d1"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"nam",
+				"nameer"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"psdw1",
+				"pswd1"
+			],
+			[
+				"a",
+				"a6"
+			],
+			[
+				"su",
+				"sub1"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"a-z",
+				"a-zA-Z"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/unt.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Luxurious Suite.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Forgot account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/add_slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/cancel_order.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/image gallery.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/dashboard.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/dashboard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/update_slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Booking Form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/alertbox.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Registation form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Menu Bar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/room_details.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/standard Room.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Suit Room.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/Twin Delux Room.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/update_profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/Logo Update.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dirtyfish/admin/Footer.php",
+		"/Users/sumanthkumar/Downloads/dirtyfish/Footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/myfirst.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/lab5.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mid/18bce0452.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mid/untitled.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/mid/18bce0452.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ShopStop/entertainment.php",
+		"/Users/sumanthkumar/Downloads/Server1.java",
+		"/Users/sumanthkumar/Downloads/dirtyfish/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/cat2.php",
+		"/Users/sumanthkumar/Desktop/fall assignments/hello.java",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/cat2.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/Note.dtd",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/abb2.xml",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/abc.xml",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/20 TravLocDescdent.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/19 TravFilter.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/18 TravFindByIndex.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/17 chaining.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/16 callback.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/15 stopAllEnd.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/qwe.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/14 stop.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/13 AnimateFontchange.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/1 jquery.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/2 JQevents.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/3 JQeventMouseEnter.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/4 JQeventFocusBlur.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/5 JQeventON.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/6 JEffectsHideShow.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/7 JEffectsHideToggle.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/10 JEffectsSlideToggle.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/11 AnimateRelative.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/alpha.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/12 AnimateQueue.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/8 JEffectsFadeToggle.html",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/6 Jquery Pgms/9 JEffectsFadeTO.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/email/phpemailAttach.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/5 file uplaod/upload_file.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/5 file uplaod/uplaod.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/firstjqu.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/cat2prac.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/a1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/a1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dt.php",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/5 JS Pgms Part2/1 JS Array/JSArray.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/help.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/1 Arrays/array_pop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/1 Arrays/array_push.php",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/php program/1 Arrays/count.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 DateTime/1 DateTime.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 DateTime/my_age.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 DateTime/NoDaysTill.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 form/formsimple.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 form/formsubmit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 DateTime/2 strtotimefunction.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/2 DateTime/FromToDates.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/1 Arrays/array_replace.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php program/1 Arrays/array_merge.php",
+		"/Users/sumanthkumar/Desktop/cat2/IWP/IWP Program part 2/php program/1 Arrays/array_merge.php",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/lab4a.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PAVAN.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pavan.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/alpha.php",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/alph.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/lab4a.css",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/sippy.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/test.php",
+		"/Users/sumanthkumar/Downloads/Act-4a.css",
+		"/Users/sumanthkumar/Downloads/Act-4a.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/kukka.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/surya1.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/practise/surya.html",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/lablab.css",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/labnew.html",
+		"/Users/sumanthkumar/Desktop/books/help.html",
+		"/Users/sumanthkumar/Desktop/books/lablab.css",
+		"/Users/sumanthkumar/Desktop/fall assignments/IWP/lab/lab3a.html",
+		"/Users/sumanthkumar/Desktop/books/prac.html",
+		"/Users/sumanthkumar/Downloads/dirtyfish/Login.php",
+		"/Users/sumanthkumar/Desktop/ASSIGNMENTS/gamini.css",
+		"/Users/sumanthkumar/Desktop/ASSIGNMENTS/gamini.html",
+		"/Users/sumanthkumar/Desktop/books/ifra.html",
+		"/Users/sumanthkumar/Downloads/golomb-rice-coding-python-master/README.md",
+		"/Users/sumanthkumar/Desktop/css1.css",
+		"/Users/sumanthkumar/Desktop/untitled1.html",
+		"/Users/sumanthkumar/Desktop/prompt.html",
+		"/Users/sumanthkumar/Documents/imgmap.html",
+		"/Users/sumanthkumar/Documents/abc.html",
+		"/first1.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Booking Form.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
